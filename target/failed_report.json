@@ -1,0 +1,110 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 9,
+        "name": "open login page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 33000000,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-08-14T14:45:02.649Z",
+        "before": [
+          {
+            "result": {
+              "error_message": "java.lang.NullPointerException\n\tat com.vytrack.step_definitions.Hooks.setup(Hooks.java:18)\n",
+              "duration": 2100000000,
+              "status": "failed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Login as sales manager and verify that title is Dashboard",
+        "description": "",
+        "id": "login;login-as-sales-manager-and-verify-that-title-is-dashboard",
+        "after": [
+          {
+            "result": {
+              "error_message": "java.lang.NullPointerException\n\tat com.vytrack.step_definitions.Hooks.tearDown(Hooks.java:36)\n",
+              "duration": 172000000,
+              "status": "failed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10000000,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "user logs in as a sales manager",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_logs_in_as_a_sales_manager()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "user should verify that title is a Dashboard",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_should_verify_that_title_is_a_Dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login"
+          },
+          {
+            "name": "@sales_manager"
+          }
+        ]
+      }
+    ],
+    "name": "Login",
+    "description": "  As user, I want to be able to login with username and password",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Login.feature",
+    "tags": [
+      {
+        "name": "@login",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

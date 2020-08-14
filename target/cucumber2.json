@@ -1,0 +1,137 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-08-12T23:17:34.498Z",
+        "before": [
+          {
+            "result": {
+              "error_message": "java.lang.NullPointerException\n\tat com.vytrack.step_definitions.Hooks.setup(Hooks.java:18)\n",
+              "duration": 21996000000,
+              "status": "failed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User permissions",
+        "description": "",
+        "id": "view-all-calendar-events;user-permissions",
+        "after": [
+          {
+            "result": {
+              "error_message": "java.lang.NullPointerException\n\tat com.vytrack.step_definitions.Hooks.tearDown(Hooks.java:36)\n",
+              "duration": 20097000000,
+              "status": "failed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user logs in as a sales manager",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_logs_in_as_a_sales_manager()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user navigates to \"Activities\" and \"Calendar Events\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Activities\"",
+                  "offset": 18
+                },
+                {
+                  "val": "\"Calendar Events\"",
+                  "offset": 35
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_navigates_to_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "View Per Page menu should have following options",
+            "match": {
+              "location": "com.vytrack.step_definitions.ViewCalendarEventsStepDefinitions.view_Per_Page_menu_should_have_following_options(java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "10"
+                ]
+              },
+              {
+                "cells": [
+                  "25"
+                ]
+              },
+              {
+                "cells": [
+                  "50"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@view_calendar_events"
+          }
+        ]
+      }
+    ],
+    "name": "View all calendar events",
+    "description": "  As user, I want to be able to see all calendar events as a table",
+    "id": "view-all-calendar-events",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/activities/ViewCalendarEvents.feature",
+    "tags": [
+      {
+        "name": "@view_calendar_events",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

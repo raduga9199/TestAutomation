@@ -1,0 +1,562 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-08-14T15:01:40.482Z",
+        "before": [
+          {
+            "result": {
+              "duration": 8999000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Go to Vehicles and verify title: All - Car - Entities - System - Car - Entities - System",
+        "description": "",
+        "id": "smoke-test;go-to-\u003cmodule\u003e-and-verify-title:-\u003ctitle\u003e;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 88000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1252000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8149000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user logs in as \"sales manager\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sales manager\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_logs_in_as(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11057000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user navigates to \"Fleet\" and \"Vehicles\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Fleet\"",
+                  "offset": 18
+                },
+                {
+                  "val": "\"Vehicles\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_navigates_to_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verifies that page title is \"All - Car - Entities - System - Car - Entities - System\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"All - Car - Entities - System - Car - Entities - System\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_verifies_that_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke_test"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-08-14T15:02:10.219Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5085000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Go to Vehicles Model and verify title: All - Vehicles Model - Entities - System - Car - Entities - System",
+        "description": "",
+        "id": "smoke-test;go-to-\u003cmodule\u003e-and-verify-title:-\u003ctitle\u003e;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 67000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1637000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8799000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user logs in as \"sales manager\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sales manager\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_logs_in_as(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10838000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user navigates to \"Fleet\" and \"Vehicles Model\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Fleet\"",
+                  "offset": 18
+                },
+                {
+                  "val": "\"Vehicles Model\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_navigates_to_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 34000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verifies that page title is \"All - Vehicles Model - Entities - System - Car - Entities - System\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"All - Vehicles Model - Entities - System - Car - Entities - System\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_verifies_that_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke_test"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-08-14T15:02:36.691Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4626000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Go to Accounts and verify title: All - Accounts - Customers",
+        "description": "",
+        "id": "smoke-test;go-to-\u003cmodule\u003e-and-verify-title:-\u003ctitle\u003e;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 103000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 919000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6960000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user logs in as \"sales manager\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sales manager\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_logs_in_as(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11496000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user navigates to \"Customers\" and \"Accounts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Customers\"",
+                  "offset": 18
+                },
+                {
+                  "val": "\"Accounts\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_navigates_to_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 33000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verifies that page title is \"All - Accounts - Customers\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"All - Accounts - Customers\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_verifies_that_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke_test"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-08-14T15:03:00.840Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4623000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Go to Contacts and verify title: All - Contacts - Customers",
+        "description": "",
+        "id": "smoke-test;go-to-\u003cmodule\u003e-and-verify-title:-\u003ctitle\u003e;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 81000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 858000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6957000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user logs in as \"sales manager\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sales manager\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_logs_in_as(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11454000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user navigates to \"Customers\" and \"Contacts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Customers\"",
+                  "offset": 18
+                },
+                {
+                  "val": "\"Contacts\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_navigates_to_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 27000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verifies that page title is \"All - Contacts - Customers\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"All - Contacts - Customers\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_verifies_that_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke_test"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-08-14T15:03:24.851Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4667000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.setup()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Go to Calendar Events and verify title: All - Calendar Events - Activities",
+        "description": "",
+        "id": "smoke-test;go-to-\u003cmodule\u003e-and-verify-title:-\u003ctitle\u003e;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 104000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.vytrack.step_definitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 948000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on the login page",
+            "match": {
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6952000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user logs in as \"sales manager\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sales manager\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_logs_in_as(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11286000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user navigates to \"Activities\" and \"Calendar Events\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Activities\"",
+                  "offset": 18
+                },
+                {
+                  "val": "\"Calendar Events\"",
+                  "offset": 35
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_navigates_to_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 38000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user verifies that page title is \"All - Calendar Events - Activities\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"All - Calendar Events - Activities\"",
+                  "offset": 33
+                }
+              ],
+              "location": "com.vytrack.step_definitions.LoginStepDefinitions.user_verifies_that_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke_test"
+          }
+        ]
+      }
+    ],
+    "name": "Smoke test",
+    "description": "",
+    "id": "smoke-test",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/SmokeTest.feature",
+    "tags": [
+      {
+        "name": "@smoke_test",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

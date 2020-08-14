@@ -1,0 +1,352 @@
+2020-08-12 18:56:55 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 18:56:55 INFO  Hooks:17 - Test setup
+2020-08-12 18:56:55 INFO  Driver:52 - Browser :: chrome-remote
+2020-08-12 18:57:44 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 18:57:44 INFO  Hooks:17 - Test setup
+2020-08-12 18:57:44 INFO  Driver:52 - Browser :: chrome
+2020-08-12 18:57:48 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-12 18:57:48 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-12 18:57:49 INFO  LoginStepDefinitions:32 - Login as sales manager
+2020-08-12 18:58:06 INFO  ViewCalendarEventsStepDefinitions:16 - Expected values: [10, 25, 50]
+2020-08-12 18:58:09 INFO  Hooks:40 - Test clean up
+2020-08-12 19:00:28 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 19:00:28 INFO  Hooks:17 - Test setup
+2020-08-12 19:00:28 INFO  Driver:52 - Browser :: firefox
+2020-08-12 19:00:33 INFO  Driver:52 - Browser :: firefox
+2020-08-12 19:00:41 INFO  Hooks:40 - Test clean up
+2020-08-12 19:00:56 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 19:00:56 INFO  Hooks:17 - Test setup
+2020-08-12 19:00:56 INFO  Driver:52 - Browser :: firefox
+2020-08-12 19:01:02 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-12 19:01:02 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-12 19:01:03 INFO  LoginStepDefinitions:32 - Login as sales manager
+2020-08-12 19:01:17 INFO  ViewCalendarEventsStepDefinitions:16 - Expected values: [10, 25, 50]
+2020-08-12 19:01:20 INFO  Hooks:40 - Test clean up
+2020-08-12 19:01:54 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 19:01:54 INFO  Hooks:17 - Test setup
+2020-08-12 19:01:54 INFO  Driver:52 - Browser :: firefox-remote
+2020-08-12 19:03:10 INFO  Driver:52 - Browser :: firefox-remote
+2020-08-12 19:17:14 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 19:17:14 INFO  Hooks:17 - Test setup
+2020-08-12 19:17:14 INFO  Driver:53 - Browser :: firefox-remote
+2020-08-12 19:17:17 INFO  Driver:53 - Browser :: firefox-remote
+2020-08-12 19:17:34 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 19:17:34 INFO  Hooks:17 - Test setup
+2020-08-12 19:17:34 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-12 19:17:56 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-12 19:18:42 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 19:18:42 INFO  Hooks:17 - Test setup
+2020-08-12 19:18:42 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-12 19:19:03 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-12 20:50:13 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-12 20:50:13 INFO  Hooks:17 - Test setup
+2020-08-12 20:50:13 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-12 20:51:43 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:12 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:12 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:12 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:14 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:15 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:15 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:15 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:15 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:15 INFO  Hooks:23 - Setup for driver only
+2020-08-14 10:44:15 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:15 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:15 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:15 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:15 INFO  Hooks:28 - Tear down for driver only
+2020-08-14 10:44:15 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:15 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:15 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:16 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:16 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:16 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:16 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:16 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:16 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:16 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:16 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:16 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:17 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:17 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:17 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:17 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:17 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:17 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:17 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:17 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:17 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:17 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:17 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:17 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:18 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:18 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:18 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:18 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:18 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:18 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:18 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:18 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:18 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:18 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:18 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:19 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:19 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:19 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:19 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:19 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:19 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:20 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:20 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:20 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:20 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:20 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:20 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:20 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:20 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:21 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:21 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:21 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:21 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:22 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:22 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:22 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:22 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:22 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:23 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:23 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:23 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:23 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:23 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:46 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:44:46 INFO  Hooks:17 - Test setup
+2020-08-14 10:44:46 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:44:48 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:45:02 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:45:02 INFO  Hooks:17 - Test setup
+2020-08-14 10:45:02 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:45:04 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:19 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:51:19 INFO  Hooks:17 - Test setup
+2020-08-14 10:51:19 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:20 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:51:20 INFO  Hooks:17 - Test setup
+2020-08-14 10:51:20 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:51:21 INFO  Hooks:17 - Test setup
+2020-08-14 10:51:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:51:21 INFO  Hooks:17 - Test setup
+2020-08-14 10:51:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 10:51:21 INFO  Hooks:17 - Test setup
+2020-08-14 10:51:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 10:51:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:01:40 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:01:40 INFO  Hooks:17 - Test setup
+2020-08-14 11:01:40 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:01:49 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:01:49 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:01:50 INFO  LoginPage:77 - Login as sales manager
+2020-08-14 11:02:10 INFO  LoginStepDefinitions:82 - Verify that page title is: All - Car - Entities - System - Car - Entities - System
+2020-08-14 11:02:10 INFO  Hooks:40 - Test clean up
+2020-08-14 11:02:10 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:02:10 INFO  Hooks:17 - Test setup
+2020-08-14 11:02:10 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:02:15 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:02:15 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:02:16 INFO  LoginPage:77 - Login as sales manager
+2020-08-14 11:02:36 INFO  LoginStepDefinitions:82 - Verify that page title is: All - Vehicles Model - Entities - System - Car - Entities - System
+2020-08-14 11:02:36 INFO  Hooks:40 - Test clean up
+2020-08-14 11:02:36 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:02:36 INFO  Hooks:17 - Test setup
+2020-08-14 11:02:36 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:02:41 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:02:41 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:02:42 INFO  LoginPage:77 - Login as sales manager
+2020-08-14 11:03:00 INFO  LoginStepDefinitions:82 - Verify that page title is: All - Accounts - Customers
+2020-08-14 11:03:00 INFO  Hooks:40 - Test clean up
+2020-08-14 11:03:00 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:03:00 INFO  Hooks:17 - Test setup
+2020-08-14 11:03:00 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:03:05 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:03:05 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:03:06 INFO  LoginPage:77 - Login as sales manager
+2020-08-14 11:03:24 INFO  LoginStepDefinitions:82 - Verify that page title is: All - Contacts - Customers
+2020-08-14 11:03:24 INFO  Hooks:40 - Test clean up
+2020-08-14 11:03:24 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:03:24 INFO  Hooks:17 - Test setup
+2020-08-14 11:03:24 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:03:29 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:03:29 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:03:30 INFO  LoginPage:77 - Login as sales manager
+2020-08-14 11:03:48 INFO  LoginStepDefinitions:82 - Verify that page title is: All - Calendar Events - Activities
+2020-08-14 11:03:48 INFO  Hooks:40 - Test clean up
+2020-08-14 11:33:49 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:33:49 INFO  Hooks:17 - Test setup
+2020-08-14 11:33:49 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:33:54 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:33:54 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:33:55 INFO  LoginStepDefinitions:32 - Login as sales manager
+2020-08-14 11:34:02 INFO  LoginStepDefinitions:44 - Verify that title is a Dashboard
+2020-08-14 11:34:04 INFO  Hooks:40 - Test clean up
+2020-08-14 11:34:05 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:34:05 INFO  Hooks:17 - Test setup
+2020-08-14 11:34:05 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:34:10 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:34:10 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:34:18 INFO  LoginStepDefinitions:44 - Verify that title is a Dashboard
+2020-08-14 11:34:20 INFO  Hooks:40 - Test clean up
+2020-08-14 11:34:21 INFO  Hooks:23 - Setup for driver only
+2020-08-14 11:34:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:34:21 INFO  Hooks:17 - Test setup
+2020-08-14 11:34:21 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:34:27 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:34:27 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:34:30 INFO  LoginStepDefinitions:52 - Login as a driver
+2020-08-14 11:34:37 INFO  LoginStepDefinitions:44 - Verify that title is a Dashboard
+2020-08-14 11:34:39 INFO  Hooks:28 - Tear down for driver only
+2020-08-14 11:34:39 INFO  Hooks:40 - Test clean up
+2020-08-14 11:34:40 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:34:40 INFO  Hooks:17 - Test setup
+2020-08-14 11:34:40 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:34:44 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:34:44 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:34:56 INFO  LoginStepDefinitions:44 - Verify that title is a Dashboard
+2020-08-14 11:34:58 INFO  Hooks:40 - Test clean up
+2020-08-14 11:34:59 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:34:59 INFO  Hooks:17 - Test setup
+2020-08-14 11:34:59 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:35:03 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:35:03 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:35:12 INFO  Hooks:40 - Test clean up
+2020-08-14 11:35:12 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:35:12 INFO  Hooks:17 - Test setup
+2020-08-14 11:35:12 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:35:17 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:35:17 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:35:26 INFO  Hooks:40 - Test clean up
+2020-08-14 11:35:26 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:35:26 INFO  Hooks:17 - Test setup
+2020-08-14 11:35:26 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:35:31 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:35:31 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:35:44 INFO  Hooks:40 - Test clean up
+2020-08-14 11:35:44 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:35:44 INFO  Hooks:17 - Test setup
+2020-08-14 11:35:44 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:35:48 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:35:48 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:35:58 INFO  Hooks:40 - Test clean up
+2020-08-14 11:35:58 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:35:58 INFO  Hooks:17 - Test setup
+2020-08-14 11:35:58 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:36:04 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:36:04 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:36:13 INFO  Hooks:40 - Test clean up
+2020-08-14 11:36:13 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:13 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:13 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:36:19 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:36:19 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:36:28 INFO  Hooks:40 - Test clean up
+2020-08-14 11:36:29 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:29 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:29 INFO  Driver:53 - Browser :: chrome-remote
+2020-08-14 11:36:33 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-14 11:36:33 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-14 11:36:35 INFO  LoginPage:77 - Login as driver
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:50 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:50 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:51 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:51 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:51 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:51 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:51 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
+2020-08-14 11:36:51 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
