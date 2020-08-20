@@ -12,9 +12,11 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.BrowserType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.FindBy;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+
 
 public class Driver {
     private static final Logger logger = Logger.getLogger(Driver.class);
@@ -65,6 +67,25 @@ public class Driver {
                     options.setHeadless(true);
                     driverPool.set(new ChromeDriver(options));
                     break;
+                case "remote-chrome":
+                    chromeOptions = new ChromeOptions();
+                    try {
+                        URL url = new URL("http://54.152.113.234:4444/wd/hub");
+                        driverPool.set(new RemoteWebDriver(url,chromeOptions));
+                    } catch (MalformedURLException e){
+                        e.printStackTrace();
+                    }
+
+                case "remote-firefox":
+                    FirefoxOptions firefoxOptions = new FirefoxOptions();
+                    try {
+                        URL url = new URL("http://54.152.113.234:4444/wd/hub");
+                        driverPool.set(new RemoteWebDriver(url,firefoxOptions));
+                    } catch (MalformedURLException e){
+                        e.printStackTrace();
+                    }
+
+
                 case "chrome-remote":
                     try {
                         //we create object of URL and specify

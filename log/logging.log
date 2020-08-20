@@ -350,3 +350,15 @@
 2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
 2020-08-14 11:36:51 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
 2020-08-14 11:36:51 INFO  Hooks:17 - Test setup
+2020-08-17 14:41:09 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-17 14:41:09 INFO  Hooks:17 - Test setup
+2020-08-17 14:41:09 INFO  Driver:53 - Browser :: remote-chrome
+2020-08-17 14:42:47 INFO  LoginStepDefinitions:19 - Open login page
+2020-08-17 14:42:47 INFO  LoginStepDefinitions:26 - URL :: http://qa2.vytrack.com
+2020-08-17 14:42:49 INFO  LoginStepDefinitions:32 - Login as sales manager
+2020-08-17 14:43:08 INFO  LoginStepDefinitions:44 - Verify that title is a Dashboard
+2020-08-17 14:43:18 INFO  Hooks:40 - Test clean up
+2020-08-17 14:44:21 INFO  Hooks:16 - ::: STARTING AUTOMATION :::
+2020-08-17 14:44:21 INFO  Hooks:17 - Test setup
+2020-08-17 14:44:21 INFO  Driver:55 - Browser :: remote-firefox
+2020-08-17 14:45:25 INFO  Driver:55 - Browser :: remote-firefox
